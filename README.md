@@ -2,12 +2,10 @@
 
 A simple static website for the Human-Computer Interaction project at NOVA FCT (2026/27).
 
-## Before publishing
+## Current content
 
-1. Copy the original attached report to `reports/IPM-Report-1.pdf`.
-2. In `index.html`, replace the Stage 1 “PDF import pending” span with the two links already preserved in the adjacent HTML comment.
-3. Replace every visible `TODO` in the Team section with the exact names and student numbers from the report.
-4. Review the course/institution wording against the original report.
+- Stage 1 is available as `IPM-Report-1.pdf` for viewing and download.
+- Team information matches the report. Bruno Miguel's student number remains marked as `TODO` because it is also missing from the submitted PDF. Teresa Romão is the professor.
 
 ## Local preview
 
